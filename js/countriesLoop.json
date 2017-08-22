@@ -1,0 +1,248 @@
+//json file for the country's looping
+var courntriesvar fellowMap = [
+	{
+		country: "Algeria",
+		fellows: "1 Fellow"
+	},
+	{
+		country: "Antigua",
+		fellows: "1 Fellows"
+	},
+	{
+		country: "Argentina",
+		fellows: "3 Fellows"
+	},
+	{
+		country: "Australia",
+		fellows: "21 Fellows"
+	},
+	{
+		country: "Austria",
+		fellows: "1 Fellows"
+	},
+	{
+		country: "Austria",
+		fellows: "1 Fellow"
+	},
+	{
+		country: "Bangladesh",
+		fellows: "1 Fellow"
+	},
+	{
+		country: "Belgium",
+		fellows: "1 Fellow"
+	},
+	{
+		country: "Brazil",
+		fellows: "9 Fellows"
+	},
+	{
+		country: "Bruma",
+		fellows: "1 Fellow"
+	},
+	{
+		country: "Canada",
+		fellows: "116 Fellows"
+	},
+	{
+		country: "China",
+		fellows: "3 Fellows"
+	},
+	{
+		country: "Colombia",
+		fellows: "2 Fellows"
+	},
+	{
+		country: "Costa Rica",
+		fellows: "1 Fellow"
+	},
+	{
+		country: "Egypt",
+		felllows: "6 Fellows"
+	},
+	{
+		country: "Finland",
+		fellows: "1 Fellow"
+	},
+	{
+		country: "France",
+		fellows: "2 Fellows"
+	},
+	{
+		country: "Germany",
+		fellows: "4 Fellows"
+	},
+	{
+		country: "Greece",
+		fellows: "2 Fellows"
+	},
+	{
+		country: "India",
+		fellows: "18 Fellows"
+	},
+	{
+		country: "Iran",
+		fellows: "10 Fellows"
+	},
+	{
+		country: "Iraq",
+		fellows: "1 Fellow"
+	},
+	{
+		country: "Ireland",
+		fellows: "19 Fellows"
+	},
+	{
+		country: "Israel",
+		fellows: "26 Fellows"
+	},
+	{
+		country: "Italy",
+		fellows: "4 Fellows"
+	},
+	{
+		country: "Jamaica",
+		fellows: "7 Fellows"
+	},
+	{
+		country: "Japan",
+		fellows: "11 Fellows"
+	},
+	{
+		country: "Jordan",
+		fellows: "9 Fellows"
+	},
+	{
+		country: "Kuwait",
+		fellows: "6 Fellows"
+	},
+	{
+		country: "Lebanon",
+		fellows: "2 Fellows"
+	},
+
+	{
+		country: "Libya",
+		fellows: "1 Fellow"
+	},
+	{
+		country: "Macedonia",
+		fellows: "1 Fellow"
+	},
+	{
+		country: "Malaysia",
+		fellows: "4 Fellows"
+	},
+	{
+		country: "Mexico",
+		fellows: "3 Fellows"
+	},
+	{
+		country: "Nepal",
+		fellows: "2 Fellows"
+	},
+	{
+		country: "Netherlands",
+		fellows: "2 Fellows"
+	},
+	{
+		country: "New Zealand",
+		fellows: "3 Fellows"
+	},
+	{
+		country: "Nigeria",
+		fellows: "1 Fellow"
+	},
+	{
+		country: "Oman",
+		fellows: "3 Fellows"
+	},
+	{
+		country: "Pakistan",
+		fellows: "10 Fellows"
+	},
+	{
+		country: "Philippines",
+		fellows: "3 Fellows"
+	},
+	{
+		country: "Portugal",
+		fellows: "1 Fellow"
+	},
+	{
+		country: "Romania",
+		fellows: "2 Fellows"
+	},
+	{
+		country: "Rwanda",
+		fellows: "1 Fellow"
+	},
+	{
+		country: "Saudi Arabia",
+		fellows: "69 Fellows"
+	},
+	{
+		country: "Serbia",
+		fellows: "1 Fellow"
+	},
+	{
+		country: "Singapore",
+		fellows: "3 Fellows"
+	},
+	{
+		country: "Slovenia",
+		fellows: "1 Fellow"
+	},
+	{
+		country: "South Korea",
+		fellows: "1 Fellow"
+	},
+	{
+		country: "Spain",
+		fellows: "7 Fellows"
+	},
+	{
+		country: "Sri-Lanka",
+		fellows: "2 Fellows"
+	},
+	{
+		country: "Saint Lucia",
+		fellows: "1 Fellow"
+	},
+	{
+		country: "Sudan",
+		fellows: "2 Fellows"
+	},
+	{
+		country: "Switzerland",
+		fellows: "4 Fellows"
+	},
+	{
+		country: "Syria",
+		fellows: "2 Fellows"
+	},
+	{
+		country: "Thailand",
+		fellows: "4 Fellows"
+	},
+	{
+		country: "Turkey",
+		fellows: "2 Fellows"
+	},
+	{
+		country: "United Arab Emirates",
+		fellows: "7 Fellows"
+	},
+	{
+		country: "United Kingdom",
+		fellows: "13 Fellows"
+	},
+	{
+		country: "United States",
+		fellows: "8 Fellows"
+	},
+	{
+		country: "Yemen",
+		fellows: "2 Fellows"
+	}
+]
